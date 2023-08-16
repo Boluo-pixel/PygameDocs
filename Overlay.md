@@ -1,5 +1,7 @@
 # Overlay | Pygame中文文档
 
+> 警告：该模块不支持 pygame 2.0 及以上版本。要使用该模块，需要手动使用 SDL1 编译 pygame。
+
 ## 类
 
 - class pygame.Overlay
